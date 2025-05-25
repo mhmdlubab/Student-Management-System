@@ -1,0 +1,263 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Chaos\\Desktop\\c# projects\\final part\\assignment c# 1.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7274046-A2AF-48D3-B5F2-D8A509B06538}|assignment c# 1.1\\assignment c# 1.1.csproj|C:\\Users\\Chaos\\Desktop\\c# projects\\final part\\assignment c# 1.1\\assignment c# 1.1\\viewstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C7274046-A2AF-48D3-B5F2-D8A509B06538}|assignment c# 1.1\\assignment c# 1.1.csproj|solutionrelative:assignment c# 1.1\\viewstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7274046-A2AF-48D3-B5F2-D8A509B06538}|assignment c# 1.1\\assignment c# 1.1.csproj|C:\\Users\\Chaos\\Desktop\\c# projects\\final part\\assignment c# 1.1\\assignment c# 1.1\\viewstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7274046-A2AF-48D3-B5F2-D8A509B06538}|assignment c# 1.1\\assignment c# 1.1.csproj|solutionrelative:assignment c# 1.1\\viewstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7274046-A2AF-48D3-B5F2-D8A509B06538}|assignment c# 1.1\\assignment c# 1.1.csproj|c:\\users\\chaos\\desktop\\c# projects\\final part\\assignment c# 1.1\\assignment c# 1.1\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C7274046-A2AF-48D3-B5F2-D8A509B06538}|assignment c# 1.1\\assignment c# 1.1.csproj|solutionrelative:assignment c# 1.1\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7274046-A2AF-48D3-B5F2-D8A509B06538}|assignment c# 1.1\\assignment c# 1.1.csproj|C:\\Users\\Chaos\\Desktop\\c# projects\\final part\\assignment c# 1.1\\assignment c# 1.1\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7274046-A2AF-48D3-B5F2-D8A509B06538}|assignment c# 1.1\\assignment c# 1.1.csproj|solutionrelative:assignment c# 1.1\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7274046-A2AF-48D3-B5F2-D8A509B06538}|assignment c# 1.1\\assignment c# 1.1.csproj|C:\\Users\\Chaos\\Desktop\\c# projects\\final part\\assignment c# 1.1\\assignment c# 1.1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7274046-A2AF-48D3-B5F2-D8A509B06538}|assignment c# 1.1\\assignment c# 1.1.csproj|solutionrelative:assignment c# 1.1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7274046-A2AF-48D3-B5F2-D8A509B06538}|assignment c# 1.1\\assignment c# 1.1.csproj|C:\\Users\\Chaos\\Desktop\\c# projects\\final part\\assignment c# 1.1\\assignment c# 1.1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C7274046-A2AF-48D3-B5F2-D8A509B06538}|assignment c# 1.1\\assignment c# 1.1.csproj|solutionrelative:assignment c# 1.1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7274046-A2AF-48D3-B5F2-D8A509B06538}|assignment c# 1.1\\assignment c# 1.1.csproj|C:\\Users\\Chaos\\Desktop\\c# projects\\final part\\assignment c# 1.1\\assignment c# 1.1\\viewstudents.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7274046-A2AF-48D3-B5F2-D8A509B06538}|assignment c# 1.1\\assignment c# 1.1.csproj|solutionrelative:assignment c# 1.1\\viewstudents.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7274046-A2AF-48D3-B5F2-D8A509B06538}|assignment c# 1.1\\assignment c# 1.1.csproj|C:\\Users\\Chaos\\Desktop\\c# projects\\final part\\assignment c# 1.1\\assignment c# 1.1\\editstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7274046-A2AF-48D3-B5F2-D8A509B06538}|assignment c# 1.1\\assignment c# 1.1.csproj|solutionrelative:assignment c# 1.1\\editstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7274046-A2AF-48D3-B5F2-D8A509B06538}|assignment c# 1.1\\assignment c# 1.1.csproj|C:\\Users\\Chaos\\Desktop\\c# projects\\final part\\assignment c# 1.1\\assignment c# 1.1\\addstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7274046-A2AF-48D3-B5F2-D8A509B06538}|assignment c# 1.1\\assignment c# 1.1.csproj|solutionrelative:assignment c# 1.1\\addstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7274046-A2AF-48D3-B5F2-D8A509B06538}|assignment c# 1.1\\assignment c# 1.1.csproj|C:\\Users\\Chaos\\Desktop\\c# projects\\final part\\assignment c# 1.1\\assignment c# 1.1\\studentdatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7274046-A2AF-48D3-B5F2-D8A509B06538}|assignment c# 1.1\\assignment c# 1.1.csproj|solutionrelative:assignment c# 1.1\\studentdatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7274046-A2AF-48D3-B5F2-D8A509B06538}|assignment c# 1.1\\assignment c# 1.1.csproj|C:\\Users\\Chaos\\Desktop\\c# projects\\final part\\assignment c# 1.1\\assignment c# 1.1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7274046-A2AF-48D3-B5F2-D8A509B06538}|assignment c# 1.1\\assignment c# 1.1.csproj|solutionrelative:assignment c# 1.1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7274046-A2AF-48D3-B5F2-D8A509B06538}|assignment c# 1.1\\assignment c# 1.1.csproj|C:\\Users\\Chaos\\Desktop\\c# projects\\final part\\assignment c# 1.1\\assignment c# 1.1\\databinding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7274046-A2AF-48D3-B5F2-D8A509B06538}|assignment c# 1.1\\assignment c# 1.1.csproj|solutionrelative:assignment c# 1.1\\databinding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7274046-A2AF-48D3-B5F2-D8A509B06538}|assignment c# 1.1\\assignment c# 1.1.csproj|C:\\Users\\Chaos\\Desktop\\c# projects\\final part\\assignment c# 1.1\\assignment c# 1.1\\editstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C7274046-A2AF-48D3-B5F2-D8A509B06538}|assignment c# 1.1\\assignment c# 1.1.csproj|solutionrelative:assignment c# 1.1\\editstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7274046-A2AF-48D3-B5F2-D8A509B06538}|assignment c# 1.1\\assignment c# 1.1.csproj|C:\\Users\\Chaos\\Desktop\\c# projects\\final part\\assignment c# 1.1\\assignment c# 1.1\\addstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C7274046-A2AF-48D3-B5F2-D8A509B06538}|assignment c# 1.1\\assignment c# 1.1.csproj|solutionrelative:assignment c# 1.1\\addstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7274046-A2AF-48D3-B5F2-D8A509B06538}|assignment c# 1.1\\assignment c# 1.1.csproj|C:\\Users\\Chaos\\Desktop\\c# projects\\final part\\assignment c# 1.1\\assignment c# 1.1\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7274046-A2AF-48D3-B5F2-D8A509B06538}|assignment c# 1.1\\assignment c# 1.1.csproj|solutionrelative:assignment c# 1.1\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EditStudentForm.cs",
+              "DocumentMoniker": "C:\\Users\\Chaos\\Desktop\\c# projects\\final part\\assignment c# 1.1\\assignment c# 1.1\\EditStudentForm.cs",
+              "RelativeDocumentMoniker": "assignment c# 1.1\\EditStudentForm.cs",
+              "ToolTip": "C:\\Users\\Chaos\\Desktop\\c# projects\\final part\\assignment c# 1.1\\assignment c# 1.1\\EditStudentForm.cs",
+              "RelativeToolTip": "assignment c# 1.1\\EditStudentForm.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAAGAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T09:51:53.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewStudents.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Chaos\\Desktop\\c# projects\\final part\\assignment c# 1.1\\assignment c# 1.1\\ViewStudents.cs",
+              "RelativeDocumentMoniker": "assignment c# 1.1\\ViewStudents.cs",
+              "ToolTip": "C:\\Users\\Chaos\\Desktop\\c# projects\\final part\\assignment c# 1.1\\assignment c# 1.1\\ViewStudents.cs [Design]",
+              "RelativeToolTip": "assignment c# 1.1\\ViewStudents.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T11:51:40.676Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Chaos\\Desktop\\c# projects\\final part\\assignment c# 1.1\\assignment c# 1.1\\Form1.cs",
+              "RelativeDocumentMoniker": "assignment c# 1.1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Chaos\\Desktop\\c# projects\\part 3 \u0026 part 5\\assignment c# 1.1\\assignment c# 1.1\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\part 3 \u0026 part 5\\assignment c# 1.1\\assignment c# 1.1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T18:00:34.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Chaos\\Desktop\\c# projects\\final part\\assignment c# 1.1\\assignment c# 1.1\\Form1.cs",
+              "RelativeDocumentMoniker": "assignment c# 1.1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Chaos\\Desktop\\c# projects\\final part\\assignment c# 1.1\\assignment c# 1.1\\Form1.cs",
+              "RelativeToolTip": "assignment c# 1.1\\Form1.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAtwDAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T18:00:55.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashBoard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Chaos\\Desktop\\c# projects\\final part\\assignment c# 1.1\\assignment c# 1.1\\DashBoard.cs",
+              "RelativeDocumentMoniker": "assignment c# 1.1\\DashBoard.cs",
+              "ToolTip": "C:\\Users\\Chaos\\Desktop\\c# projects\\final part\\assignment c# 1.1\\assignment c# 1.1\\DashBoard.cs [Design]",
+              "RelativeToolTip": "assignment c# 1.1\\DashBoard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T18:19:47.772Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DashBoard.cs",
+              "DocumentMoniker": "C:\\Users\\Chaos\\Desktop\\c# projects\\final part\\assignment c# 1.1\\assignment c# 1.1\\DashBoard.cs",
+              "RelativeDocumentMoniker": "assignment c# 1.1\\DashBoard.cs",
+              "ToolTip": "C:\\Users\\Chaos\\Desktop\\c# projects\\final part\\assignment c# 1.1\\assignment c# 1.1\\DashBoard.cs",
+              "RelativeToolTip": "assignment c# 1.1\\DashBoard.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAIA9wCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T18:27:44.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewStudents.cs",
+              "DocumentMoniker": "C:\\Users\\Chaos\\Desktop\\c# projects\\final part\\assignment c# 1.1\\assignment c# 1.1\\ViewStudents.cs",
+              "RelativeDocumentMoniker": "assignment c# 1.1\\ViewStudents.cs",
+              "ToolTip": "C:\\Users\\Chaos\\Desktop\\c# projects\\final part\\assignment c# 1.1\\assignment c# 1.1\\ViewStudents.cs",
+              "RelativeToolTip": "assignment c# 1.1\\ViewStudents.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAApwC8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T11:58:56.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddStudentForm.cs",
+              "DocumentMoniker": "C:\\Users\\Chaos\\Desktop\\c# projects\\final part\\assignment c# 1.1\\assignment c# 1.1\\AddStudentForm.cs",
+              "RelativeDocumentMoniker": "assignment c# 1.1\\AddStudentForm.cs",
+              "ToolTip": "C:\\Users\\Chaos\\Desktop\\c# projects\\final part\\assignment c# 1.1\\assignment c# 1.1\\AddStudentForm.cs",
+              "RelativeToolTip": "assignment c# 1.1\\AddStudentForm.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAowFgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T10:19:52.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ViewStudents.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Chaos\\Desktop\\c# projects\\final part\\assignment c# 1.1\\assignment c# 1.1\\ViewStudents.Designer.cs",
+              "RelativeDocumentMoniker": "assignment c# 1.1\\ViewStudents.Designer.cs",
+              "ToolTip": "C:\\Users\\Chaos\\Desktop\\c# projects\\final part\\assignment c# 1.1\\assignment c# 1.1\\ViewStudents.Designer.cs",
+              "RelativeToolTip": "assignment c# 1.1\\ViewStudents.Designer.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAYwIwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T15:58:12.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddStudentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Chaos\\Desktop\\c# projects\\final part\\assignment c# 1.1\\assignment c# 1.1\\AddStudentForm.cs",
+              "RelativeDocumentMoniker": "assignment c# 1.1\\AddStudentForm.cs",
+              "ToolTip": "C:\\Users\\Chaos\\Desktop\\c# projects\\part 3 \u0026 part 5\\assignment c# 1.1\\assignment c# 1.1\\AddStudentForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\part 3 \u0026 part 5\\assignment c# 1.1\\assignment c# 1.1\\AddStudentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T10:16:04.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EditStudentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Chaos\\Desktop\\c# projects\\final part\\assignment c# 1.1\\assignment c# 1.1\\EditStudentForm.cs",
+              "RelativeDocumentMoniker": "assignment c# 1.1\\EditStudentForm.cs",
+              "ToolTip": "C:\\Users\\Chaos\\Desktop\\c# projects\\part 3 \u0026 part 5\\assignment c# 1.1\\assignment c# 1.1\\EditStudentForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\part 3 \u0026 part 5\\assignment c# 1.1\\assignment c# 1.1\\EditStudentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T09:05:46.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentDataManager.cs",
+              "DocumentMoniker": "C:\\Users\\Chaos\\Desktop\\c# projects\\final part\\assignment c# 1.1\\assignment c# 1.1\\StudentDataManager.cs",
+              "RelativeDocumentMoniker": "assignment c# 1.1\\StudentDataManager.cs",
+              "ToolTip": "C:\\Users\\Chaos\\Desktop\\c# projects\\final part\\assignment c# 1.1\\assignment c# 1.1\\StudentDataManager.cs",
+              "RelativeToolTip": "assignment c# 1.1\\StudentDataManager.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAlwBwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T15:35:49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "databinding.cs",
+              "DocumentMoniker": "C:\\Users\\Chaos\\Desktop\\c# projects\\final part\\assignment c# 1.1\\assignment c# 1.1\\databinding.cs",
+              "RelativeDocumentMoniker": "assignment c# 1.1\\databinding.cs",
+              "ToolTip": "C:\\Users\\Chaos\\Desktop\\c# projects\\final part\\assignment c# 1.1\\assignment c# 1.1\\databinding.cs",
+              "RelativeToolTip": "assignment c# 1.1\\databinding.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T10:11:01.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Chaos\\Desktop\\c# projects\\final part\\assignment c# 1.1\\assignment c# 1.1\\Student.cs",
+              "RelativeDocumentMoniker": "assignment c# 1.1\\Student.cs",
+              "ToolTip": "C:\\Users\\Chaos\\Desktop\\c# projects\\final part\\assignment c# 1.1\\assignment c# 1.1\\Student.cs",
+              "RelativeToolTip": "assignment c# 1.1\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T12:02:06.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "validationHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Chaos\\Desktop\\c# projects\\final part\\assignment c# 1.1\\assignment c# 1.1\\validationHelper.cs",
+              "RelativeDocumentMoniker": "assignment c# 1.1\\validationHelper.cs",
+              "ToolTip": "C:\\Users\\Chaos\\Desktop\\c# projects\\final part\\assignment c# 1.1\\assignment c# 1.1\\validationHelper.cs",
+              "RelativeToolTip": "assignment c# 1.1\\validationHelper.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAIA7wCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T08:56:51.96Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

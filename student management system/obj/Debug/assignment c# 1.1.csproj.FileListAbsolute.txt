@@ -1,0 +1,83 @@
+C:\Users\Chaos\source\repos\assignment c# 1.1\assignment c# 1.1\bin\Debug\assignment c# 1.1.exe
+C:\Users\Chaos\source\repos\assignment c# 1.1\assignment c# 1.1\obj\Debug\assignment c# 1.1.csproj.AssemblyReference.cache
+C:\Users\Chaos\source\repos\assignment c# 1.1\assignment c# 1.1\obj\Debug\assignment_c__1._1.DashBoard.resources
+C:\Users\Chaos\source\repos\assignment c# 1.1\assignment c# 1.1\obj\Debug\assignment_c__1._1.Form1.resources
+C:\Users\Chaos\source\repos\assignment c# 1.1\assignment c# 1.1\obj\Debug\assignment_c__1._1.Properties.Resources.resources
+C:\Users\Chaos\source\repos\assignment c# 1.1\assignment c# 1.1\obj\Debug\assignment c# 1.1.csproj.GenerateResource.cache
+C:\Users\Chaos\source\repos\assignment c# 1.1\assignment c# 1.1\obj\Debug\assignment c# 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Chaos\source\repos\assignment c# 1.1\assignment c# 1.1\bin\Debug\assignment c# 1.1.exe.config
+C:\Users\Chaos\source\repos\assignment c# 1.1\assignment c# 1.1\obj\Debug\assignment c# 1.1.exe
+C:\Users\Chaos\source\repos\assignment c# 1.1\assignment c# 1.1\obj\Debug\assignment c# 1.1.pdb
+C:\Users\Chaos\source\repos\assignment c# 1.1\assignment c# 1.1\bin\Debug\assignment c# 1.1.pdb
+C:\Users\Chaos\source\repos\assignment c# 1.1\assignment c# 1.1\obj\Debug\assignment_c__1._1.AddStudentForm.resources
+C:\Users\Chaos\source\repos\assignment c# 1.1\assignment c# 1.1\obj\Debug\assignment_c__1._1.ViewStudents.resources
+C:\Users\Chaos\Desktop\c# projects\part 3 & part 5\assignment c# 1.1\assignment c# 1.1\bin\Debug\assignment c# 1.1.exe.config
+C:\Users\Chaos\Desktop\c# projects\part 3 & part 5\assignment c# 1.1\assignment c# 1.1\bin\Debug\assignment c# 1.1.exe
+C:\Users\Chaos\Desktop\c# projects\part 3 & part 5\assignment c# 1.1\assignment c# 1.1\bin\Debug\assignment c# 1.1.pdb
+C:\Users\Chaos\Desktop\c# projects\part 3 & part 5\assignment c# 1.1\assignment c# 1.1\obj\Debug\assignment c# 1.1.csproj.AssemblyReference.cache
+C:\Users\Chaos\Desktop\c# projects\part 3 & part 5\assignment c# 1.1\assignment c# 1.1\obj\Debug\assignment_c__1._1.AddStudentForm.resources
+C:\Users\Chaos\Desktop\c# projects\part 3 & part 5\assignment c# 1.1\assignment c# 1.1\obj\Debug\assignment_c__1._1.DashBoard.resources
+C:\Users\Chaos\Desktop\c# projects\part 3 & part 5\assignment c# 1.1\assignment c# 1.1\obj\Debug\assignment_c__1._1.Form1.resources
+C:\Users\Chaos\Desktop\c# projects\part 3 & part 5\assignment c# 1.1\assignment c# 1.1\obj\Debug\assignment_c__1._1.Properties.Resources.resources
+C:\Users\Chaos\Desktop\c# projects\part 3 & part 5\assignment c# 1.1\assignment c# 1.1\obj\Debug\assignment_c__1._1.ViewStudents.resources
+C:\Users\Chaos\Desktop\c# projects\part 3 & part 5\assignment c# 1.1\assignment c# 1.1\obj\Debug\assignment c# 1.1.csproj.GenerateResource.cache
+C:\Users\Chaos\Desktop\c# projects\part 3 & part 5\assignment c# 1.1\assignment c# 1.1\obj\Debug\assignment c# 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Chaos\Desktop\c# projects\part 3 & part 5\assignment c# 1.1\assignment c# 1.1\obj\Debug\assignment c# 1.1.exe
+C:\Users\Chaos\Desktop\c# projects\part 3 & part 5\assignment c# 1.1\assignment c# 1.1\obj\Debug\assignment c# 1.1.pdb
+C:\Users\Chaos\Desktop\c# projects\part 3 & part 5\assignment c# 1.1\assignment c# 1.1\obj\Debug\assignment_c__1._1.EditStudentForm.resources
+C:\Users\Chaos\Desktop\c# projects\part 3 & part 5\assignment c# 1.1\assignment c# 1.1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Chaos\Desktop\c# projects\part 3 & part 5\assignment c# 1.1\assignment c# 1.1\bin\Debug\System.Buffers.dll
+C:\Users\Chaos\Desktop\c# projects\part 3 & part 5\assignment c# 1.1\assignment c# 1.1\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Chaos\Desktop\c# projects\part 3 & part 5\assignment c# 1.1\assignment c# 1.1\bin\Debug\System.Memory.dll
+C:\Users\Chaos\Desktop\c# projects\part 3 & part 5\assignment c# 1.1\assignment c# 1.1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Chaos\Desktop\c# projects\part 3 & part 5\assignment c# 1.1\assignment c# 1.1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Chaos\Desktop\c# projects\part 3 & part 5\assignment c# 1.1\assignment c# 1.1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Chaos\Desktop\c# projects\part 3 & part 5\assignment c# 1.1\assignment c# 1.1\bin\Debug\System.Text.Json.dll
+C:\Users\Chaos\Desktop\c# projects\part 3 & part 5\assignment c# 1.1\assignment c# 1.1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Chaos\Desktop\c# projects\part 3 & part 5\assignment c# 1.1\assignment c# 1.1\bin\Debug\System.ValueTuple.dll
+C:\Users\Chaos\Desktop\c# projects\part 3 & part 5\assignment c# 1.1\assignment c# 1.1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Chaos\Desktop\c# projects\part 3 & part 5\assignment c# 1.1\assignment c# 1.1\bin\Debug\System.Buffers.xml
+C:\Users\Chaos\Desktop\c# projects\part 3 & part 5\assignment c# 1.1\assignment c# 1.1\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Chaos\Desktop\c# projects\part 3 & part 5\assignment c# 1.1\assignment c# 1.1\bin\Debug\System.Memory.xml
+C:\Users\Chaos\Desktop\c# projects\part 3 & part 5\assignment c# 1.1\assignment c# 1.1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Chaos\Desktop\c# projects\part 3 & part 5\assignment c# 1.1\assignment c# 1.1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Chaos\Desktop\c# projects\part 3 & part 5\assignment c# 1.1\assignment c# 1.1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Chaos\Desktop\c# projects\part 3 & part 5\assignment c# 1.1\assignment c# 1.1\bin\Debug\System.Text.Json.xml
+C:\Users\Chaos\Desktop\c# projects\part 3 & part 5\assignment c# 1.1\assignment c# 1.1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Chaos\Desktop\c# projects\part 3 & part 5\assignment c# 1.1\assignment c# 1.1\bin\Debug\System.ValueTuple.xml
+C:\Users\Chaos\Desktop\c# projects\part 3 & part 5\assignment c# 1.1\assignment c# 1.1\obj\Debug\assignme.EA467D28.Up2Date
+C:\Users\Chaos\Desktop\c# projects\final part\assignment c# 1.1\assignment c# 1.1\bin\Debug\assignment c# 1.1.exe.config
+C:\Users\Chaos\Desktop\c# projects\final part\assignment c# 1.1\assignment c# 1.1\bin\Debug\assignment c# 1.1.exe
+C:\Users\Chaos\Desktop\c# projects\final part\assignment c# 1.1\assignment c# 1.1\bin\Debug\assignment c# 1.1.pdb
+C:\Users\Chaos\Desktop\c# projects\final part\assignment c# 1.1\assignment c# 1.1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Chaos\Desktop\c# projects\final part\assignment c# 1.1\assignment c# 1.1\bin\Debug\System.Buffers.dll
+C:\Users\Chaos\Desktop\c# projects\final part\assignment c# 1.1\assignment c# 1.1\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Chaos\Desktop\c# projects\final part\assignment c# 1.1\assignment c# 1.1\bin\Debug\System.Memory.dll
+C:\Users\Chaos\Desktop\c# projects\final part\assignment c# 1.1\assignment c# 1.1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Chaos\Desktop\c# projects\final part\assignment c# 1.1\assignment c# 1.1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Chaos\Desktop\c# projects\final part\assignment c# 1.1\assignment c# 1.1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Chaos\Desktop\c# projects\final part\assignment c# 1.1\assignment c# 1.1\bin\Debug\System.Text.Json.dll
+C:\Users\Chaos\Desktop\c# projects\final part\assignment c# 1.1\assignment c# 1.1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Chaos\Desktop\c# projects\final part\assignment c# 1.1\assignment c# 1.1\bin\Debug\System.ValueTuple.dll
+C:\Users\Chaos\Desktop\c# projects\final part\assignment c# 1.1\assignment c# 1.1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Chaos\Desktop\c# projects\final part\assignment c# 1.1\assignment c# 1.1\bin\Debug\System.Buffers.xml
+C:\Users\Chaos\Desktop\c# projects\final part\assignment c# 1.1\assignment c# 1.1\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Chaos\Desktop\c# projects\final part\assignment c# 1.1\assignment c# 1.1\bin\Debug\System.Memory.xml
+C:\Users\Chaos\Desktop\c# projects\final part\assignment c# 1.1\assignment c# 1.1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Chaos\Desktop\c# projects\final part\assignment c# 1.1\assignment c# 1.1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Chaos\Desktop\c# projects\final part\assignment c# 1.1\assignment c# 1.1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Chaos\Desktop\c# projects\final part\assignment c# 1.1\assignment c# 1.1\bin\Debug\System.Text.Json.xml
+C:\Users\Chaos\Desktop\c# projects\final part\assignment c# 1.1\assignment c# 1.1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Chaos\Desktop\c# projects\final part\assignment c# 1.1\assignment c# 1.1\bin\Debug\System.ValueTuple.xml
+C:\Users\Chaos\Desktop\c# projects\final part\assignment c# 1.1\assignment c# 1.1\obj\Debug\assignment c# 1.1.csproj.AssemblyReference.cache
+C:\Users\Chaos\Desktop\c# projects\final part\assignment c# 1.1\assignment c# 1.1\obj\Debug\assignment_c__1._1.AddStudentForm.resources
+C:\Users\Chaos\Desktop\c# projects\final part\assignment c# 1.1\assignment c# 1.1\obj\Debug\assignment_c__1._1.DashBoard.resources
+C:\Users\Chaos\Desktop\c# projects\final part\assignment c# 1.1\assignment c# 1.1\obj\Debug\assignment_c__1._1.EditStudentForm.resources
+C:\Users\Chaos\Desktop\c# projects\final part\assignment c# 1.1\assignment c# 1.1\obj\Debug\assignment_c__1._1.Form1.resources
+C:\Users\Chaos\Desktop\c# projects\final part\assignment c# 1.1\assignment c# 1.1\obj\Debug\assignment_c__1._1.Properties.Resources.resources
+C:\Users\Chaos\Desktop\c# projects\final part\assignment c# 1.1\assignment c# 1.1\obj\Debug\assignment_c__1._1.ViewStudents.resources
+C:\Users\Chaos\Desktop\c# projects\final part\assignment c# 1.1\assignment c# 1.1\obj\Debug\assignment c# 1.1.csproj.GenerateResource.cache
+C:\Users\Chaos\Desktop\c# projects\final part\assignment c# 1.1\assignment c# 1.1\obj\Debug\assignment c# 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Chaos\Desktop\c# projects\final part\assignment c# 1.1\assignment c# 1.1\obj\Debug\assignme.EA467D28.Up2Date
+C:\Users\Chaos\Desktop\c# projects\final part\assignment c# 1.1\assignment c# 1.1\obj\Debug\assignment c# 1.1.exe
+C:\Users\Chaos\Desktop\c# projects\final part\assignment c# 1.1\assignment c# 1.1\obj\Debug\assignment c# 1.1.pdb
